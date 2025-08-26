@@ -65,6 +65,19 @@ brew install rabbitmq
 brew services start rabbitmq
 ```
 
+- Windows (PowerShell, requires Chocolatey):
+```powershell
+# In an elevated (Administrator) PowerShell
+choco install rabbitmq -y
+
+# Ensure the RabbitMQ Windows service is installed and running
+rabbitmq-service.bat install
+rabbitmq-service.bat start
+
+# Optional: enable the Management UI at http://localhost:15672 (guest/guest)
+rabbitmq-plugins enable rabbitmq_management
+```
+
 - Docker:
 ```bash
 docker run -d --name rmq -p 5672:5672 -p 15672:15672 rabbitmq:3-management
