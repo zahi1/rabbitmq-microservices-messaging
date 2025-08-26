@@ -117,4 +117,4 @@ Tune limits in `GasPressure/GasPressureLogic.cs`:
 
 ## License
 
-MIT — see `LICENSE`.
+MIT — see `[LICENSE]([url](https://github.com/zahi1/rabbitmq-microservices-messaging/blob/main/LICENSE))`.
