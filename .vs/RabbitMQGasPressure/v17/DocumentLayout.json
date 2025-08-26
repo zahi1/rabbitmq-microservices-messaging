@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\helou\\source\\repos\\RabbitMQGasPressure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DDD4249-E9C7-4146-89F7-DB09D0266F58}|Output\\Output.csproj|c:\\users\\helou\\source\\repos\\rabbitmqgaspressure\\output\\outputclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DDD4249-E9C7-4146-89F7-DB09D0266F58}|Output\\Output.csproj|solutionrelative:output\\outputclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DDD4249-E9C7-4146-89F7-DB09D0266F58}|Output\\Output.csproj|c:\\users\\helou\\source\\repos\\rabbitmqgaspressure\\output\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DDD4249-E9C7-4146-89F7-DB09D0266F58}|Output\\Output.csproj|solutionrelative:output\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1D9844-D090-42A2-BA11-D68BF61ABD50}|GasPressure\\GasPressure.csproj|c:\\users\\helou\\source\\repos\\rabbitmqgaspressure\\gaspressure\\gaspressureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE1D9844-D090-42A2-BA11-D68BF61ABD50}|GasPressure\\GasPressure.csproj|solutionrelative:gaspressure\\gaspressureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767ADB58-2716-40C6-9AB6-D778F23ECD0D}|GasPressureContract\\GasPressureContract.csproj|c:\\users\\helou\\source\\repos\\rabbitmqgaspressure\\gaspressurecontract\\igaspressureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767ADB58-2716-40C6-9AB6-D778F23ECD0D}|GasPressureContract\\GasPressureContract.csproj|solutionrelative:gaspressurecontract\\igaspressureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1D9844-D090-42A2-BA11-D68BF61ABD50}|GasPressure\\GasPressure.csproj|c:\\users\\helou\\source\\repos\\rabbitmqgaspressure\\gaspressure\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE1D9844-D090-42A2-BA11-D68BF61ABD50}|GasPressure\\GasPressure.csproj|solutionrelative:gaspressure\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1D9844-D090-42A2-BA11-D68BF61ABD50}|GasPressure\\GasPressure.csproj|c:\\users\\helou\\source\\repos\\rabbitmqgaspressure\\gaspressure\\gaspressurelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE1D9844-D090-42A2-BA11-D68BF61ABD50}|GasPressure\\GasPressure.csproj|solutionrelative:gaspressure\\gaspressurelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767ADB58-2716-40C6-9AB6-D778F23ECD0D}|GasPressureContract\\GasPressureContract.csproj|c:\\users\\helou\\source\\repos\\rabbitmqgaspressure\\gaspressurecontract\\rpcmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767ADB58-2716-40C6-9AB6-D778F23ECD0D}|GasPressureContract\\GasPressureContract.csproj|solutionrelative:gaspressurecontract\\rpcmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E1739B-1086-4C14-95E6-2764852B51B2}|RabbitMQGasPressure\\Input.csproj|c:\\users\\helou\\source\\repos\\rabbitmqgaspressure\\rabbitmqgaspressure\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E1739B-1086-4C14-95E6-2764852B51B2}|RabbitMQGasPressure\\Input.csproj|solutionrelative:rabbitmqgaspressure\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E1739B-1086-4C14-95E6-2764852B51B2}|RabbitMQGasPressure\\Input.csproj|c:\\users\\helou\\source\\repos\\rabbitmqgaspressure\\rabbitmqgaspressure\\inputclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E1739B-1086-4C14-95E6-2764852B51B2}|RabbitMQGasPressure\\Input.csproj|solutionrelative:rabbitmqgaspressure\\inputclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DDD4249-E9C7-4146-89F7-DB09D0266F58}|Output\\Output.csproj|c:\\users\\helou\\source\\repos\\rabbitmqgaspressure\\output\\output.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4DDD4249-E9C7-4146-89F7-DB09D0266F58}|Output\\Output.csproj|solutionrelative:output\\output.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E1739B-1086-4C14-95E6-2764852B51B2}|RabbitMQGasPressure\\Input.csproj|c:\\users\\helou\\source\\repos\\rabbitmqgaspressure\\rabbitmqgaspressure\\input.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F8E1739B-1086-4C14-95E6-2764852B51B2}|RabbitMQGasPressure\\Input.csproj|solutionrelative:rabbitmqgaspressure\\input.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767ADB58-2716-40C6-9AB6-D778F23ECD0D}|GasPressureContract\\GasPressureContract.csproj|c:\\users\\helou\\source\\repos\\rabbitmqgaspressure\\gaspressurecontract\\gaspressurecontract.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{767ADB58-2716-40C6-9AB6-D778F23ECD0D}|GasPressureContract\\GasPressureContract.csproj|solutionrelative:gaspressurecontract\\gaspressurecontract.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1D9844-D090-42A2-BA11-D68BF61ABD50}|GasPressure\\GasPressure.csproj|c:\\users\\helou\\source\\repos\\rabbitmqgaspressure\\gaspressure\\gaspressure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DE1D9844-D090-42A2-BA11-D68BF61ABD50}|GasPressure\\GasPressure.csproj|solutionrelative:gaspressure\\gaspressure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GasPressureService.cs",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\RabbitMQGasPressure\\GasPressure\\GasPressureService.cs",
+              "RelativeDocumentMoniker": "GasPressure\\GasPressureService.cs",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\RabbitMQGasPressure\\GasPressure\\GasPressureService.cs",
+              "RelativeToolTip": "GasPressure\\GasPressureService.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAAEwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:43:30.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GasPressureLogic.cs",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\RabbitMQGasPressure\\GasPressure\\GasPressureLogic.cs",
+              "RelativeDocumentMoniker": "GasPressure\\GasPressureLogic.cs",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\RabbitMQGasPressure\\GasPressure\\GasPressureLogic.cs",
+              "RelativeToolTip": "GasPressure\\GasPressureLogic.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAAEwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:34:38.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\RabbitMQGasPressure\\GasPressure\\Server.cs",
+              "RelativeDocumentMoniker": "GasPressure\\Server.cs",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\RabbitMQGasPressure\\GasPressure\\Server.cs",
+              "RelativeToolTip": "GasPressure\\Server.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:27:35.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RPCMessage.cs",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\RabbitMQGasPressure\\GasPressureContract\\RPCMessage.cs",
+              "RelativeDocumentMoniker": "GasPressureContract\\RPCMessage.cs",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\RabbitMQGasPressure\\GasPressureContract\\RPCMessage.cs",
+              "RelativeToolTip": "GasPressureContract\\RPCMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:21:48.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IGasPressureService.cs",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\RabbitMQGasPressure\\GasPressureContract\\IGasPressureService.cs",
+              "RelativeDocumentMoniker": "GasPressureContract\\IGasPressureService.cs",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\RabbitMQGasPressure\\GasPressureContract\\IGasPressureService.cs",
+              "RelativeToolTip": "GasPressureContract\\IGasPressureService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:19:03.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OutputClient.cs",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\RabbitMQGasPressure\\Output\\OutputClient.cs",
+              "RelativeDocumentMoniker": "Output\\OutputClient.cs",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\RabbitMQGasPressure\\Output\\OutputClient.cs",
+              "RelativeToolTip": "Output\\OutputClient.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAAIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:02:49.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\RabbitMQGasPressure\\Output\\Client.cs",
+              "RelativeDocumentMoniker": "Output\\Client.cs",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\RabbitMQGasPressure\\Output\\Client.cs",
+              "RelativeToolTip": "Output\\Client.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAGgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:02:01.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\RabbitMQGasPressure\\RabbitMQGasPressure\\Client.cs",
+              "RelativeDocumentMoniker": "RabbitMQGasPressure\\Client.cs",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\RabbitMQGasPressure\\RabbitMQGasPressure\\Client.cs",
+              "RelativeToolTip": "RabbitMQGasPressure\\Client.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwE8AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:46:54.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InputClient.cs",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\RabbitMQGasPressure\\RabbitMQGasPressure\\InputClient.cs",
+              "RelativeDocumentMoniker": "RabbitMQGasPressure\\InputClient.cs",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\RabbitMQGasPressure\\RabbitMQGasPressure\\InputClient.cs",
+              "RelativeToolTip": "RabbitMQGasPressure\\InputClient.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAMwHwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:46:52.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Output.csproj",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\RabbitMQGasPressure\\Output\\Output.csproj",
+              "RelativeDocumentMoniker": "Output\\Output.csproj",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\RabbitMQGasPressure\\Output\\Output.csproj",
+              "RelativeToolTip": "Output\\Output.csproj",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-14T15:37:26.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Input.csproj",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\RabbitMQGasPressure\\RabbitMQGasPressure\\Input.csproj",
+              "RelativeDocumentMoniker": "RabbitMQGasPressure\\Input.csproj",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\RabbitMQGasPressure\\RabbitMQGasPressure\\Input.csproj",
+              "RelativeToolTip": "RabbitMQGasPressure\\Input.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-14T15:36:58.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GasPressureContract.csproj",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\RabbitMQGasPressure\\GasPressureContract\\GasPressureContract.csproj",
+              "RelativeDocumentMoniker": "GasPressureContract\\GasPressureContract.csproj",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\RabbitMQGasPressure\\GasPressureContract\\GasPressureContract.csproj",
+              "RelativeToolTip": "GasPressureContract\\GasPressureContract.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-14T15:36:27.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GasPressure.csproj",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\RabbitMQGasPressure\\GasPressure\\GasPressure.csproj",
+              "RelativeDocumentMoniker": "GasPressure\\GasPressure.csproj",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\RabbitMQGasPressure\\GasPressure\\GasPressure.csproj",
+              "RelativeToolTip": "GasPressure\\GasPressure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-14T15:32:06.677Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

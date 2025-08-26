@@ -1,0 +1,172 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/zahielhelou/Downloads/RabbitMQGasPressure/GasPressure/GasPressure.csproj": {}
+  },
+  "projects": {
+    "/Users/zahielhelou/Downloads/RabbitMQGasPressure/GasPressure/GasPressure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/zahielhelou/Downloads/RabbitMQGasPressure/GasPressure/GasPressure.csproj",
+        "projectName": "GasPressure",
+        "projectPath": "/Users/zahielhelou/Downloads/RabbitMQGasPressure/GasPressure/GasPressure.csproj",
+        "packagesPath": "/Users/zahielhelou/.nuget/packages/",
+        "outputPath": "/Users/zahielhelou/Downloads/RabbitMQGasPressure/GasPressure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/zahielhelou/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/zahielhelou/Downloads/RabbitMQGasPressure/GasPressureContract/GasPressureContract.csproj": {
+                "projectPath": "/Users/zahielhelou/Downloads/RabbitMQGasPressure/GasPressureContract/GasPressureContract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "NLog": {
+              "target": "Package",
+              "version": "[5.3.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.14, 8.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[8.0.14, 8.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.14, 8.0.14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/zahielhelou/Downloads/RabbitMQGasPressure/GasPressureContract/GasPressureContract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/zahielhelou/Downloads/RabbitMQGasPressure/GasPressureContract/GasPressureContract.csproj",
+        "projectName": "GasPressureContract",
+        "projectPath": "/Users/zahielhelou/Downloads/RabbitMQGasPressure/GasPressureContract/GasPressureContract.csproj",
+        "packagesPath": "/Users/zahielhelou/.nuget/packages/",
+        "outputPath": "/Users/zahielhelou/Downloads/RabbitMQGasPressure/GasPressureContract/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/zahielhelou/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.14, 8.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[8.0.14, 8.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.14, 8.0.14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

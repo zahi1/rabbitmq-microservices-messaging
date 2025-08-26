@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "yfnmSzJG8ck=",
+  "success": true,
+  "projectFilePath": "/Users/zahielhelou/Downloads/RabbitMQGasPressure/GasPressureContract/GasPressureContract.csproj",
+  "expectedPackageFiles": [
+    "/Users/zahielhelou/.nuget/packages/microsoft.netcore.app.ref/8.0.14/microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
+    "/Users/zahielhelou/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.14/microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512",
+    "/Users/zahielhelou/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.14/microsoft.netcore.app.host.osx-arm64.8.0.14.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Access to the path '/Users/zahielhelou/.local/share' is denied."
+    }
+  ]
+}
